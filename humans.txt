@@ -3,7 +3,7 @@
 #
 #
 # TEAM
-
+	Joe Dempster -- Developer
     <name> -- <role> -- <twitter>
 
 # THANKS
